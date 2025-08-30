@@ -20,7 +20,7 @@ with how technology can shape new forms of expression.
   Museums, Expos, Exhibitions, Live Shows, Trade Shows and more.
 
 - XR Development 
-  AR/VR applications, games, and immersive storytelling
+  AR/VR/MR applications, games, and immersive storytelling
 </pre>
 
 
